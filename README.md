@@ -1,8 +1,6 @@
-# VAKGI
+# KDs
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5750019.svg)](https://doi.org/10.5281/zenodo.5750019)
-
-A sample implementation of VAKG
+KDs
 
 To run, first create a credentials.py file in the root of this project with three variables:
 
@@ -28,15 +26,4 @@ python -m spacy download en_core_web_md
 
 # CITATION
 
-```bibtex
-@software{leonardo_christino_2021_5750019,
-  author       = {Leonardo Christino, Fernando Paulovich},
-  title        = {vakg},
-  month        = dec,
-  year         = 2021,
-  publisher    = {Zenodo},
-  version      = {0.1},
-  doi          = {10.5281/zenodo.5750019},
-  url          = {https://doi.org/10.5281/zenodo.5750019}
-}
-```
+TODO
