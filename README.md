@@ -6,7 +6,7 @@ KDs
 
 
 ## Supported Queries
- The supported queries in KDs can be seen at [https://github.com/christinoleo/KDs/blob/c5b6c9dc2ea371e795aae999528b84bf117af59d/frontend/src/lib/store.ts#L29](https://github.com/christinoleo/KDs/blob/c5b6c9dc2ea371e795aae999528b84bf117af59d/frontend/src/lib/store.ts#L29)
+ The supported queries in KDs can be seen at [https://github.com/christinoleo/KDs/blob/c5b6c9dc2ea371e795aae999528b84bf117af59d/frontend/src/lib/store.ts#L29-L168](https://github.com/christinoleo/KDs/blob/c5b6c9dc2ea371e795aae999528b84bf117af59d/frontend/src/lib/store.ts#L29-L168)
 
 
 ## Running
