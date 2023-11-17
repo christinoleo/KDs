@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/698313768.svg)](https://zenodo.org/doi/10.5281/zenodo.10150607)
+
 # KDs
 
 KDs
@@ -26,4 +28,15 @@ python -m spacy download en_core_web_md
 
 # CITATION
 
-TODO
+```bib
+@software{leonardo_christino_2023_10150608,
+  author       = {Leonardo Christino},
+  title        = {christinoleo/KDs: 0.0.1},
+  month        = nov,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {0.0.1},
+  doi          = {10.5281/zenodo.10150608},
+  url          = {https://doi.org/10.5281/zenodo.10150608}
+}
+```
