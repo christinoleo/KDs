@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/698313768.svg)](https://zenodo.org/doi/10.5281/zenodo.10150607)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10150663.svg)](https://doi.org/10.5281/zenodo.10150663)
+
 
 # Knowledge Decks (KD)
 
@@ -36,14 +37,14 @@ python -m spacy download en_core_web_md
 # CITATION
 
 ```bib
-@software{leonardo_christino_2023_10150608,
+@software{leonardo_christino_2023_10150663,
   author       = {Leonardo Christino},
-  title        = {christinoleo/KDs: 0.0.1},
+  title        = {christinoleo/KDs: 0.0.2},
   month        = nov,
   year         = 2023,
   publisher    = {Zenodo},
-  version      = {0.0.1},
-  doi          = {10.5281/zenodo.10150608},
-  url          = {https://doi.org/10.5281/zenodo.10150608}
+  version      = {0.0.2},
+  doi          = {10.5281/zenodo.10150663},
+  url          = {https://doi.org/10.5281/zenodo.10150663}
 }
 ```
