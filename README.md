@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/698313768.svg)](https://zenodo.org/doi/10.5281/zenodo.10150607)
 
-# KDs
+# Knowledge Decks (KD)
 
-KDs
+Visualization and Visual Analytics (Vi&VA) tools allow users to harness insights and knowledge from datasets. Recalling and retelling user experiences from the usage of such tools has attracted significant interest. Nevertheless, each user session is unique, and the path between start and finish is not always linear. Even when different users have the same intention when using a tool, they may follow different paths and uncover different insights. Currently, those who want to analyze user data are expected to manually collect and process user data. This process is time-consuming, especially when there is the need to gather users' insights and behavior and share them with others. We present Knowledge Decks (KD), a systematic approach that collects user intentions, behavior, and insights during knowledge discovery sessions, automatically structures the collected data as a Knowledge Graph, populates an interface to visualize Knowledge Pathways, which we call storylines, as an intelligently layouted node-link diagram, and generates linear narrations of the knowledge discovery process as PowerPoint slide decks. To evaluate KD, we have attached it to two existing Vi&VA tools where users were asked to perform pre-defined tasks. The KD interface was then shown to experts in the tools. Interviews with the experts showed the relevance of KD in both commercial and research applications when investigating how each tool was utilized when automating the collection of insights and for the quick generation of slide decks containing screenshots and texts from the users' point of view.
 
 
 ## Supported Queries
