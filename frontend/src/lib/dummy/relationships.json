@@ -1,0 +1,8206 @@
+[
+	{
+		"identity": 0,
+		"start": 1,
+		"end": 0,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 0,
+		"start": 1,
+		"end": 0,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 1,
+		"start": 3,
+		"end": 2,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 1,
+		"start": 3,
+		"end": 2,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 2,
+		"start": 5,
+		"end": 4,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 2,
+		"start": 5,
+		"end": 4,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 3,
+		"start": 2,
+		"end": 4,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 3,
+		"start": 2,
+		"end": 4,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 4,
+		"start": 7,
+		"end": 6,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 4,
+		"start": 7,
+		"end": 6,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 5,
+		"start": 7,
+		"end": 5,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 5,
+		"start": 7,
+		"end": 5,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 6,
+		"start": 6,
+		"end": 4,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 6,
+		"start": 6,
+		"end": 4,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 7,
+		"start": 4,
+		"end": 7,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 7,
+		"start": 4,
+		"end": 7,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 8,
+		"start": 2,
+		"end": 6,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 8,
+		"start": 2,
+		"end": 6,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 9,
+		"start": 9,
+		"end": 8,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 9,
+		"start": 9,
+		"end": 8,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 10,
+		"start": 9,
+		"end": 3,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 10,
+		"start": 9,
+		"end": 3,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 11,
+		"start": 8,
+		"end": 2,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 11,
+		"start": 8,
+		"end": 2,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 12,
+		"start": 2,
+		"end": 9,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 12,
+		"start": 2,
+		"end": 9,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 13,
+		"start": 6,
+		"end": 8,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 13,
+		"start": 6,
+		"end": 8,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 14,
+		"start": 11,
+		"end": 10,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 14,
+		"start": 11,
+		"end": 10,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 15,
+		"start": 11,
+		"end": 7,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 15,
+		"start": 11,
+		"end": 7,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 16,
+		"start": 10,
+		"end": 6,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 16,
+		"start": 10,
+		"end": 6,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 17,
+		"start": 6,
+		"end": 11,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 17,
+		"start": 6,
+		"end": 11,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 18,
+		"start": 8,
+		"end": 10,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 18,
+		"start": 8,
+		"end": 10,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 19,
+		"start": 13,
+		"end": 12,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 19,
+		"start": 13,
+		"end": 12,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 20,
+		"start": 13,
+		"end": 9,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 20,
+		"start": 13,
+		"end": 9,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 21,
+		"start": 12,
+		"end": 8,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 21,
+		"start": 12,
+		"end": 8,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 22,
+		"start": 8,
+		"end": 13,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 22,
+		"start": 8,
+		"end": 13,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 23,
+		"start": 10,
+		"end": 12,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 23,
+		"start": 10,
+		"end": 12,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 24,
+		"start": 15,
+		"end": 14,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 24,
+		"start": 15,
+		"end": 14,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 25,
+		"start": 15,
+		"end": 13,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 25,
+		"start": 15,
+		"end": 13,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 26,
+		"start": 14,
+		"end": 12,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 26,
+		"start": 14,
+		"end": 12,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 27,
+		"start": 12,
+		"end": 15,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 27,
+		"start": 12,
+		"end": 15,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 28,
+		"start": 10,
+		"end": 14,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 28,
+		"start": 10,
+		"end": 14,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 29,
+		"start": 17,
+		"end": 16,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 29,
+		"start": 17,
+		"end": 16,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 30,
+		"start": 17,
+		"end": 11,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 30,
+		"start": 17,
+		"end": 11,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 31,
+		"start": 16,
+		"end": 10,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 31,
+		"start": 16,
+		"end": 10,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 32,
+		"start": 10,
+		"end": 17,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 32,
+		"start": 10,
+		"end": 17,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 33,
+		"start": 14,
+		"end": 16,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 33,
+		"start": 14,
+		"end": 16,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 34,
+		"start": 19,
+		"end": 18,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 34,
+		"start": 19,
+		"end": 18,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 35,
+		"start": 19,
+		"end": 15,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 35,
+		"start": 19,
+		"end": 15,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 36,
+		"start": 18,
+		"end": 14,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 36,
+		"start": 18,
+		"end": 14,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 37,
+		"start": 14,
+		"end": 19,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 37,
+		"start": 14,
+		"end": 19,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 38,
+		"start": 16,
+		"end": 18,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 38,
+		"start": 16,
+		"end": 18,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 39,
+		"start": 21,
+		"end": 20,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 39,
+		"start": 21,
+		"end": 20,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 40,
+		"start": 21,
+		"end": 17,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 40,
+		"start": 21,
+		"end": 17,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 41,
+		"start": 20,
+		"end": 16,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 41,
+		"start": 20,
+		"end": 16,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 42,
+		"start": 16,
+		"end": 21,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 42,
+		"start": 16,
+		"end": 21,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 43,
+		"start": 18,
+		"end": 20,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 43,
+		"start": 18,
+		"end": 20,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 44,
+		"start": 23,
+		"end": 22,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 44,
+		"start": 23,
+		"end": 22,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 45,
+		"start": 23,
+		"end": 21,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 45,
+		"start": 23,
+		"end": 21,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 46,
+		"start": 22,
+		"end": 20,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 46,
+		"start": 22,
+		"end": 20,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 47,
+		"start": 20,
+		"end": 23,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 47,
+		"start": 20,
+		"end": 23,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 48,
+		"start": 18,
+		"end": 22,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 48,
+		"start": 18,
+		"end": 22,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 49,
+		"start": 25,
+		"end": 24,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 49,
+		"start": 25,
+		"end": 24,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 50,
+		"start": 25,
+		"end": 19,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 50,
+		"start": 25,
+		"end": 19,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 51,
+		"start": 24,
+		"end": 18,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 51,
+		"start": 24,
+		"end": 18,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 52,
+		"start": 18,
+		"end": 25,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 52,
+		"start": 18,
+		"end": 25,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 53,
+		"start": 22,
+		"end": 24,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 53,
+		"start": 22,
+		"end": 24,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 54,
+		"start": 27,
+		"end": 26,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 54,
+		"start": 27,
+		"end": 26,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 55,
+		"start": 27,
+		"end": 23,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 55,
+		"start": 27,
+		"end": 23,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 56,
+		"start": 26,
+		"end": 22,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 56,
+		"start": 26,
+		"end": 22,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 57,
+		"start": 22,
+		"end": 27,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 57,
+		"start": 22,
+		"end": 27,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 58,
+		"start": 24,
+		"end": 26,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 58,
+		"start": 24,
+		"end": 26,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 59,
+		"start": 29,
+		"end": 28,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 59,
+		"start": 29,
+		"end": 28,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 60,
+		"start": 29,
+		"end": 25,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 60,
+		"start": 29,
+		"end": 25,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 61,
+		"start": 28,
+		"end": 24,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 61,
+		"start": 28,
+		"end": 24,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 62,
+		"start": 24,
+		"end": 29,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 62,
+		"start": 24,
+		"end": 29,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 63,
+		"start": 26,
+		"end": 28,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 63,
+		"start": 26,
+		"end": 28,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 64,
+		"start": 31,
+		"end": 30,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 64,
+		"start": 31,
+		"end": 30,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 65,
+		"start": 31,
+		"end": 29,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 65,
+		"start": 31,
+		"end": 29,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 66,
+		"start": 30,
+		"end": 28,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 66,
+		"start": 30,
+		"end": 28,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 67,
+		"start": 28,
+		"end": 31,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 67,
+		"start": 28,
+		"end": 31,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 68,
+		"start": 26,
+		"end": 30,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 68,
+		"start": 26,
+		"end": 30,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 69,
+		"start": 33,
+		"end": 32,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 69,
+		"start": 33,
+		"end": 32,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 70,
+		"start": 33,
+		"end": 27,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 70,
+		"start": 33,
+		"end": 27,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 71,
+		"start": 32,
+		"end": 26,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 71,
+		"start": 32,
+		"end": 26,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 72,
+		"start": 26,
+		"end": 33,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 72,
+		"start": 26,
+		"end": 33,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 73,
+		"start": 30,
+		"end": 32,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 73,
+		"start": 30,
+		"end": 32,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 74,
+		"start": 35,
+		"end": 34,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 74,
+		"start": 35,
+		"end": 34,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 75,
+		"start": 35,
+		"end": 31,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 75,
+		"start": 35,
+		"end": 31,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 76,
+		"start": 34,
+		"end": 30,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 76,
+		"start": 34,
+		"end": 30,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 77,
+		"start": 30,
+		"end": 35,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 77,
+		"start": 30,
+		"end": 35,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 78,
+		"start": 32,
+		"end": 34,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 78,
+		"start": 32,
+		"end": 34,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 79,
+		"start": 37,
+		"end": 36,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 79,
+		"start": 37,
+		"end": 36,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 80,
+		"start": 37,
+		"end": 35,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 80,
+		"start": 37,
+		"end": 35,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 81,
+		"start": 36,
+		"end": 34,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 81,
+		"start": 36,
+		"end": 34,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 82,
+		"start": 34,
+		"end": 37,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 82,
+		"start": 34,
+		"end": 37,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 83,
+		"start": 32,
+		"end": 36,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 83,
+		"start": 32,
+		"end": 36,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 84,
+		"start": 39,
+		"end": 38,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 84,
+		"start": 39,
+		"end": 38,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 85,
+		"start": 39,
+		"end": 37,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 85,
+		"start": 39,
+		"end": 37,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 86,
+		"start": 38,
+		"end": 36,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 86,
+		"start": 38,
+		"end": 36,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 87,
+		"start": 36,
+		"end": 39,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 87,
+		"start": 36,
+		"end": 39,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 88,
+		"start": 32,
+		"end": 38,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 88,
+		"start": 32,
+		"end": 38,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 89,
+		"start": 41,
+		"end": 40,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 89,
+		"start": 41,
+		"end": 40,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 90,
+		"start": 41,
+		"end": 33,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 90,
+		"start": 41,
+		"end": 33,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 91,
+		"start": 40,
+		"end": 32,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 91,
+		"start": 40,
+		"end": 32,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 92,
+		"start": 32,
+		"end": 41,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 92,
+		"start": 32,
+		"end": 41,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 93,
+		"start": 38,
+		"end": 40,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 93,
+		"start": 38,
+		"end": 40,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 94,
+		"start": 43,
+		"end": 42,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 94,
+		"start": 43,
+		"end": 42,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 95,
+		"start": 43,
+		"end": 39,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 95,
+		"start": 43,
+		"end": 39,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 96,
+		"start": 42,
+		"end": 38,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 96,
+		"start": 42,
+		"end": 38,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 97,
+		"start": 38,
+		"end": 43,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 97,
+		"start": 38,
+		"end": 43,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 98,
+		"start": 40,
+		"end": 42,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 98,
+		"start": 40,
+		"end": 42,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 99,
+		"start": 45,
+		"end": 44,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 99,
+		"start": 45,
+		"end": 44,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 100,
+		"start": 45,
+		"end": 43,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 100,
+		"start": 45,
+		"end": 43,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 101,
+		"start": 44,
+		"end": 42,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 101,
+		"start": 44,
+		"end": 42,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 102,
+		"start": 42,
+		"end": 45,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 102,
+		"start": 42,
+		"end": 45,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 103,
+		"start": 40,
+		"end": 44,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 103,
+		"start": 40,
+		"end": 44,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 104,
+		"start": 47,
+		"end": 46,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 104,
+		"start": 47,
+		"end": 46,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 105,
+		"start": 47,
+		"end": 45,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 105,
+		"start": 47,
+		"end": 45,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 106,
+		"start": 46,
+		"end": 44,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 106,
+		"start": 46,
+		"end": 44,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 107,
+		"start": 44,
+		"end": 47,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 107,
+		"start": 44,
+		"end": 47,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 108,
+		"start": 40,
+		"end": 46,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 108,
+		"start": 40,
+		"end": 46,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 109,
+		"start": 49,
+		"end": 48,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 109,
+		"start": 49,
+		"end": 48,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 110,
+		"start": 49,
+		"end": 47,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 110,
+		"start": 49,
+		"end": 47,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 111,
+		"start": 48,
+		"end": 46,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 111,
+		"start": 48,
+		"end": 46,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 112,
+		"start": 46,
+		"end": 49,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 112,
+		"start": 46,
+		"end": 49,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 113,
+		"start": 40,
+		"end": 48,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 113,
+		"start": 40,
+		"end": 48,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 114,
+		"start": 51,
+		"end": 50,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 114,
+		"start": 51,
+		"end": 50,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 115,
+		"start": 51,
+		"end": 41,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 115,
+		"start": 51,
+		"end": 41,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 116,
+		"start": 50,
+		"end": 40,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 116,
+		"start": 50,
+		"end": 40,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 117,
+		"start": 40,
+		"end": 51,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 117,
+		"start": 40,
+		"end": 51,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 118,
+		"start": 48,
+		"end": 50,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 118,
+		"start": 48,
+		"end": 50,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 119,
+		"start": 53,
+		"end": 52,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 119,
+		"start": 53,
+		"end": 52,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 120,
+		"start": 53,
+		"end": 51,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 120,
+		"start": 53,
+		"end": 51,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 121,
+		"start": 52,
+		"end": 50,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 121,
+		"start": 52,
+		"end": 50,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 122,
+		"start": 50,
+		"end": 53,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 122,
+		"start": 50,
+		"end": 53,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 123,
+		"start": 48,
+		"end": 52,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 123,
+		"start": 48,
+		"end": 52,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 124,
+		"start": 55,
+		"end": 54,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 124,
+		"start": 55,
+		"end": 54,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 125,
+		"start": 55,
+		"end": 53,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 125,
+		"start": 55,
+		"end": 53,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 126,
+		"start": 54,
+		"end": 52,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 126,
+		"start": 54,
+		"end": 52,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 127,
+		"start": 52,
+		"end": 55,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 127,
+		"start": 52,
+		"end": 55,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 128,
+		"start": 48,
+		"end": 54,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 128,
+		"start": 48,
+		"end": 54,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 129,
+		"start": 57,
+		"end": 56,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 129,
+		"start": 57,
+		"end": 56,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 130,
+		"start": 57,
+		"end": 49,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 130,
+		"start": 57,
+		"end": 49,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 131,
+		"start": 56,
+		"end": 48,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 131,
+		"start": 56,
+		"end": 48,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 132,
+		"start": 48,
+		"end": 57,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 132,
+		"start": 48,
+		"end": 57,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 133,
+		"start": 54,
+		"end": 56,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 133,
+		"start": 54,
+		"end": 56,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 134,
+		"start": 59,
+		"end": 58,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 134,
+		"start": 59,
+		"end": 58,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 135,
+		"start": 59,
+		"end": 55,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 135,
+		"start": 59,
+		"end": 55,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 136,
+		"start": 58,
+		"end": 54,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 136,
+		"start": 58,
+		"end": 54,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 137,
+		"start": 54,
+		"end": 59,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 137,
+		"start": 54,
+		"end": 59,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 138,
+		"start": 56,
+		"end": 58,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 138,
+		"start": 56,
+		"end": 58,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 139,
+		"start": 61,
+		"end": 60,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 139,
+		"start": 61,
+		"end": 60,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 140,
+		"start": 61,
+		"end": 57,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 140,
+		"start": 61,
+		"end": 57,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 141,
+		"start": 60,
+		"end": 56,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 141,
+		"start": 60,
+		"end": 56,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 142,
+		"start": 56,
+		"end": 61,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 142,
+		"start": 56,
+		"end": 61,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 143,
+		"start": 58,
+		"end": 60,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 143,
+		"start": 58,
+		"end": 60,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 144,
+		"start": 63,
+		"end": 62,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 144,
+		"start": 63,
+		"end": 62,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 145,
+		"start": 63,
+		"end": 61,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 145,
+		"start": 63,
+		"end": 61,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 146,
+		"start": 62,
+		"end": 60,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 146,
+		"start": 62,
+		"end": 60,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 147,
+		"start": 60,
+		"end": 63,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 147,
+		"start": 60,
+		"end": 63,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 148,
+		"start": 58,
+		"end": 62,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 148,
+		"start": 58,
+		"end": 62,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 149,
+		"start": 65,
+		"end": 64,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 149,
+		"start": 65,
+		"end": 64,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 150,
+		"start": 65,
+		"end": 63,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 150,
+		"start": 65,
+		"end": 63,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 151,
+		"start": 64,
+		"end": 62,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 151,
+		"start": 64,
+		"end": 62,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 152,
+		"start": 62,
+		"end": 65,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 152,
+		"start": 62,
+		"end": 65,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 153,
+		"start": 58,
+		"end": 64,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 153,
+		"start": 58,
+		"end": 64,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 154,
+		"start": 67,
+		"end": 66,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 154,
+		"start": 67,
+		"end": 66,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 155,
+		"start": 67,
+		"end": 65,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 155,
+		"start": 67,
+		"end": 65,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 156,
+		"start": 66,
+		"end": 64,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 156,
+		"start": 66,
+		"end": 64,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 157,
+		"start": 64,
+		"end": 67,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 157,
+		"start": 64,
+		"end": 67,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 158,
+		"start": 58,
+		"end": 66,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 158,
+		"start": 58,
+		"end": 66,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 159,
+		"start": 69,
+		"end": 68,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 159,
+		"start": 69,
+		"end": 68,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 160,
+		"start": 69,
+		"end": 59,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 160,
+		"start": 69,
+		"end": 59,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 161,
+		"start": 68,
+		"end": 58,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 161,
+		"start": 68,
+		"end": 58,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 162,
+		"start": 58,
+		"end": 69,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 162,
+		"start": 58,
+		"end": 69,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 163,
+		"start": 66,
+		"end": 68,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 163,
+		"start": 66,
+		"end": 68,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 164,
+		"start": 71,
+		"end": 70,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 164,
+		"start": 71,
+		"end": 70,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 165,
+		"start": 71,
+		"end": 67,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 165,
+		"start": 71,
+		"end": 67,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 166,
+		"start": 70,
+		"end": 66,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 166,
+		"start": 70,
+		"end": 66,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 167,
+		"start": 66,
+		"end": 71,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 167,
+		"start": 66,
+		"end": 71,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 168,
+		"start": 68,
+		"end": 70,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 168,
+		"start": 68,
+		"end": 70,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 169,
+		"start": 73,
+		"end": 72,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 169,
+		"start": 73,
+		"end": 72,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 170,
+		"start": 73,
+		"end": 69,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 170,
+		"start": 73,
+		"end": 69,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 171,
+		"start": 72,
+		"end": 68,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 171,
+		"start": 72,
+		"end": 68,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 172,
+		"start": 68,
+		"end": 73,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 172,
+		"start": 68,
+		"end": 73,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 173,
+		"start": 70,
+		"end": 72,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 173,
+		"start": 70,
+		"end": 72,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 174,
+		"start": 75,
+		"end": 74,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 174,
+		"start": 75,
+		"end": 74,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 175,
+		"start": 75,
+		"end": 71,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 175,
+		"start": 75,
+		"end": 71,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 176,
+		"start": 74,
+		"end": 70,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 176,
+		"start": 74,
+		"end": 70,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 177,
+		"start": 70,
+		"end": 75,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 177,
+		"start": 70,
+		"end": 75,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 178,
+		"start": 72,
+		"end": 74,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 178,
+		"start": 72,
+		"end": 74,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 179,
+		"start": 77,
+		"end": 76,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 179,
+		"start": 77,
+		"end": 76,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 180,
+		"start": 77,
+		"end": 75,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 180,
+		"start": 77,
+		"end": 75,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 181,
+		"start": 76,
+		"end": 74,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 181,
+		"start": 76,
+		"end": 74,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 182,
+		"start": 74,
+		"end": 77,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 182,
+		"start": 74,
+		"end": 77,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "leo",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 183,
+		"start": 72,
+		"end": 76,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 183,
+		"start": 72,
+		"end": 76,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 184,
+		"start": 79,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 184,
+		"start": 79,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 185,
+		"start": 81,
+		"end": 80,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 185,
+		"start": 81,
+		"end": 80,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 186,
+		"start": 83,
+		"end": 82,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 186,
+		"start": 83,
+		"end": 82,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 187,
+		"start": 83,
+		"end": 81,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 187,
+		"start": 83,
+		"end": 81,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 188,
+		"start": 82,
+		"end": 80,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 188,
+		"start": 82,
+		"end": 80,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 189,
+		"start": 80,
+		"end": 83,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 189,
+		"start": 80,
+		"end": 83,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 190,
+		"start": 85,
+		"end": 84,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 190,
+		"start": 85,
+		"end": 84,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 191,
+		"start": 85,
+		"end": 83,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 191,
+		"start": 85,
+		"end": 83,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 192,
+		"start": 84,
+		"end": 82,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 192,
+		"start": 84,
+		"end": 82,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 193,
+		"start": 82,
+		"end": 85,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 193,
+		"start": 82,
+		"end": 85,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 194,
+		"start": 87,
+		"end": 86,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 194,
+		"start": 87,
+		"end": 86,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 195,
+		"start": 84,
+		"end": 86,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 195,
+		"start": 84,
+		"end": 86,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 196,
+		"start": 89,
+		"end": 88,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 196,
+		"start": 89,
+		"end": 88,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 197,
+		"start": 89,
+		"end": 85,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 197,
+		"start": 89,
+		"end": 85,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 198,
+		"start": 88,
+		"end": 84,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 198,
+		"start": 88,
+		"end": 84,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 199,
+		"start": 84,
+		"end": 89,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 199,
+		"start": 84,
+		"end": 89,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 200,
+		"start": 86,
+		"end": 88,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 200,
+		"start": 86,
+		"end": 88,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 201,
+		"start": 91,
+		"end": 90,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 201,
+		"start": 91,
+		"end": 90,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 202,
+		"start": 91,
+		"end": 87,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 202,
+		"start": 91,
+		"end": 87,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 203,
+		"start": 90,
+		"end": 86,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 203,
+		"start": 90,
+		"end": 86,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 204,
+		"start": 86,
+		"end": 91,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 204,
+		"start": 86,
+		"end": 91,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 205,
+		"start": 88,
+		"end": 90,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 205,
+		"start": 88,
+		"end": 90,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 206,
+		"start": 93,
+		"end": 92,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 206,
+		"start": 93,
+		"end": 92,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 207,
+		"start": 93,
+		"end": 89,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 207,
+		"start": 93,
+		"end": 89,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 208,
+		"start": 92,
+		"end": 88,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 208,
+		"start": 92,
+		"end": 88,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 209,
+		"start": 88,
+		"end": 93,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 209,
+		"start": 88,
+		"end": 93,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 210,
+		"start": 90,
+		"end": 92,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 210,
+		"start": 90,
+		"end": 92,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 211,
+		"start": 95,
+		"end": 94,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 211,
+		"start": 95,
+		"end": 94,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 212,
+		"start": 95,
+		"end": 93,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 212,
+		"start": 95,
+		"end": 93,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 213,
+		"start": 94,
+		"end": 92,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 213,
+		"start": 94,
+		"end": 92,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 214,
+		"start": 92,
+		"end": 95,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 214,
+		"start": 92,
+		"end": 95,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 215,
+		"start": 90,
+		"end": 94,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 215,
+		"start": 90,
+		"end": 94,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 216,
+		"start": 97,
+		"end": 96,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 216,
+		"start": 97,
+		"end": 96,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 217,
+		"start": 97,
+		"end": 91,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 217,
+		"start": 97,
+		"end": 91,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 218,
+		"start": 96,
+		"end": 90,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 218,
+		"start": 96,
+		"end": 90,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 219,
+		"start": 90,
+		"end": 97,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 219,
+		"start": 90,
+		"end": 97,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 220,
+		"start": 94,
+		"end": 96,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 220,
+		"start": 94,
+		"end": 96,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 221,
+		"start": 99,
+		"end": 98,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 221,
+		"start": 99,
+		"end": 98,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 222,
+		"start": 99,
+		"end": 97,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 222,
+		"start": 99,
+		"end": 97,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 223,
+		"start": 98,
+		"end": 96,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 223,
+		"start": 98,
+		"end": 96,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 224,
+		"start": 96,
+		"end": 99,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 224,
+		"start": 96,
+		"end": 99,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 225,
+		"start": 94,
+		"end": 98,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 225,
+		"start": 94,
+		"end": 98,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 226,
+		"start": 101,
+		"end": 100,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 226,
+		"start": 101,
+		"end": 100,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 227,
+		"start": 101,
+		"end": 95,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 227,
+		"start": 101,
+		"end": 95,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 228,
+		"start": 100,
+		"end": 94,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 228,
+		"start": 100,
+		"end": 94,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 229,
+		"start": 94,
+		"end": 101,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 229,
+		"start": 94,
+		"end": 101,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 230,
+		"start": 98,
+		"end": 100,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 230,
+		"start": 98,
+		"end": 100,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 231,
+		"start": 103,
+		"end": 102,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 231,
+		"start": 103,
+		"end": 102,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 232,
+		"start": 103,
+		"end": 99,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 232,
+		"start": 103,
+		"end": 99,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 233,
+		"start": 102,
+		"end": 98,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 233,
+		"start": 102,
+		"end": 98,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 234,
+		"start": 98,
+		"end": 103,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 234,
+		"start": 98,
+		"end": 103,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 235,
+		"start": 100,
+		"end": 102,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 235,
+		"start": 100,
+		"end": 102,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 236,
+		"start": 105,
+		"end": 104,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 236,
+		"start": 105,
+		"end": 104,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 237,
+		"start": 105,
+		"end": 101,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 237,
+		"start": 105,
+		"end": 101,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 238,
+		"start": 104,
+		"end": 100,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 238,
+		"start": 104,
+		"end": 100,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 239,
+		"start": 100,
+		"end": 105,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 239,
+		"start": 100,
+		"end": 105,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 240,
+		"start": 102,
+		"end": 104,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 240,
+		"start": 102,
+		"end": 104,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 241,
+		"start": 107,
+		"end": 106,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 241,
+		"start": 107,
+		"end": 106,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 242,
+		"start": 107,
+		"end": 105,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 242,
+		"start": 107,
+		"end": 105,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 243,
+		"start": 106,
+		"end": 104,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 243,
+		"start": 106,
+		"end": 104,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 244,
+		"start": 104,
+		"end": 107,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 244,
+		"start": 104,
+		"end": 107,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 245,
+		"start": 102,
+		"end": 106,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 245,
+		"start": 102,
+		"end": 106,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 246,
+		"start": 109,
+		"end": 108,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 246,
+		"start": 109,
+		"end": 108,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 247,
+		"start": 109,
+		"end": 103,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 247,
+		"start": 109,
+		"end": 103,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 248,
+		"start": 108,
+		"end": 102,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 248,
+		"start": 108,
+		"end": 102,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 249,
+		"start": 102,
+		"end": 109,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 249,
+		"start": 102,
+		"end": 109,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 250,
+		"start": 106,
+		"end": 108,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 250,
+		"start": 106,
+		"end": 108,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 251,
+		"start": 111,
+		"end": 110,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 251,
+		"start": 111,
+		"end": 110,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 252,
+		"start": 111,
+		"end": 107,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 252,
+		"start": 111,
+		"end": 107,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 253,
+		"start": 110,
+		"end": 106,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 253,
+		"start": 110,
+		"end": 106,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 254,
+		"start": 106,
+		"end": 111,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 254,
+		"start": 106,
+		"end": 111,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 255,
+		"start": 108,
+		"end": 110,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 255,
+		"start": 108,
+		"end": 110,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 256,
+		"start": 113,
+		"end": 112,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 256,
+		"start": 113,
+		"end": 112,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 257,
+		"start": 113,
+		"end": 109,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 257,
+		"start": 113,
+		"end": 109,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 258,
+		"start": 112,
+		"end": 108,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 258,
+		"start": 112,
+		"end": 108,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 259,
+		"start": 108,
+		"end": 113,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 259,
+		"start": 108,
+		"end": 113,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 260,
+		"start": 110,
+		"end": 112,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 260,
+		"start": 110,
+		"end": 112,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 261,
+		"start": 115,
+		"end": 114,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 261,
+		"start": 115,
+		"end": 114,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 262,
+		"start": 115,
+		"end": 111,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 262,
+		"start": 115,
+		"end": 111,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 263,
+		"start": 114,
+		"end": 110,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 263,
+		"start": 114,
+		"end": 110,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 264,
+		"start": 110,
+		"end": 115,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 264,
+		"start": 110,
+		"end": 115,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 265,
+		"start": 112,
+		"end": 114,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 265,
+		"start": 112,
+		"end": 114,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 266,
+		"start": 117,
+		"end": 116,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 266,
+		"start": 117,
+		"end": 116,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 267,
+		"start": 117,
+		"end": 115,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 267,
+		"start": 117,
+		"end": 115,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 268,
+		"start": 116,
+		"end": 114,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 268,
+		"start": 116,
+		"end": 114,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 269,
+		"start": 114,
+		"end": 117,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 269,
+		"start": 114,
+		"end": 117,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 270,
+		"start": 112,
+		"end": 116,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 270,
+		"start": 112,
+		"end": 116,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 271,
+		"start": 119,
+		"end": 118,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 271,
+		"start": 119,
+		"end": 118,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 272,
+		"start": 119,
+		"end": 113,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 272,
+		"start": 119,
+		"end": 113,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 273,
+		"start": 118,
+		"end": 112,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 273,
+		"start": 118,
+		"end": 112,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 274,
+		"start": 112,
+		"end": 119,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 274,
+		"start": 112,
+		"end": 119,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 275,
+		"start": 116,
+		"end": 118,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 275,
+		"start": 116,
+		"end": 118,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 276,
+		"start": 121,
+		"end": 120,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 276,
+		"start": 121,
+		"end": 120,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 277,
+		"start": 121,
+		"end": 117,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 277,
+		"start": 121,
+		"end": 117,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 278,
+		"start": 120,
+		"end": 116,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 278,
+		"start": 120,
+		"end": 116,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 279,
+		"start": 116,
+		"end": 121,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 279,
+		"start": 116,
+		"end": 121,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 280,
+		"start": 118,
+		"end": 120,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 280,
+		"start": 118,
+		"end": 120,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 281,
+		"start": 123,
+		"end": 122,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 281,
+		"start": 123,
+		"end": 122,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 282,
+		"start": 123,
+		"end": 121,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 282,
+		"start": 123,
+		"end": 121,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 283,
+		"start": 122,
+		"end": 120,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 283,
+		"start": 122,
+		"end": 120,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 284,
+		"start": 120,
+		"end": 123,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 284,
+		"start": 120,
+		"end": 123,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 285,
+		"start": 118,
+		"end": 122,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 285,
+		"start": 118,
+		"end": 122,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 286,
+		"start": 125,
+		"end": 124,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 286,
+		"start": 125,
+		"end": 124,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 287,
+		"start": 125,
+		"end": 123,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 287,
+		"start": 125,
+		"end": 123,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 288,
+		"start": 124,
+		"end": 122,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 288,
+		"start": 124,
+		"end": 122,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 289,
+		"start": 122,
+		"end": 125,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 289,
+		"start": 122,
+		"end": 125,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 290,
+		"start": 118,
+		"end": 124,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 290,
+		"start": 118,
+		"end": 124,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 291,
+		"start": 127,
+		"end": 126,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 291,
+		"start": 127,
+		"end": 126,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 292,
+		"start": 127,
+		"end": 125,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 292,
+		"start": 127,
+		"end": 125,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 293,
+		"start": 126,
+		"end": 124,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 293,
+		"start": 126,
+		"end": 124,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 294,
+		"start": 124,
+		"end": 127,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 294,
+		"start": 124,
+		"end": 127,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 295,
+		"start": 118,
+		"end": 126,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 295,
+		"start": 118,
+		"end": 126,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 296,
+		"start": 129,
+		"end": 128,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 296,
+		"start": 129,
+		"end": 128,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 297,
+		"start": 129,
+		"end": 127,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 297,
+		"start": 129,
+		"end": 127,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 298,
+		"start": 128,
+		"end": 126,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 298,
+		"start": 128,
+		"end": 126,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 299,
+		"start": 126,
+		"end": 129,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 299,
+		"start": 126,
+		"end": 129,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 300,
+		"start": 118,
+		"end": 128,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 300,
+		"start": 118,
+		"end": 128,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 301,
+		"start": 131,
+		"end": 130,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 301,
+		"start": 131,
+		"end": 130,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 302,
+		"start": 131,
+		"end": 119,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 302,
+		"start": 131,
+		"end": 119,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 303,
+		"start": 130,
+		"end": 118,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 303,
+		"start": 130,
+		"end": 118,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 304,
+		"start": 118,
+		"end": 131,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 304,
+		"start": 118,
+		"end": 131,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 305,
+		"start": 128,
+		"end": 130,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 305,
+		"start": 128,
+		"end": 130,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 306,
+		"start": 133,
+		"end": 132,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 306,
+		"start": 133,
+		"end": 132,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 307,
+		"start": 133,
+		"end": 129,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 307,
+		"start": 133,
+		"end": 129,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 308,
+		"start": 132,
+		"end": 128,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 308,
+		"start": 132,
+		"end": 128,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 309,
+		"start": 128,
+		"end": 133,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 309,
+		"start": 128,
+		"end": 133,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 310,
+		"start": 130,
+		"end": 132,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 310,
+		"start": 130,
+		"end": 132,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 311,
+		"start": 135,
+		"end": 134,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 311,
+		"start": 135,
+		"end": 134,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 312,
+		"start": 135,
+		"end": 133,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 312,
+		"start": 135,
+		"end": 133,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 313,
+		"start": 134,
+		"end": 132,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 313,
+		"start": 134,
+		"end": 132,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 314,
+		"start": 132,
+		"end": 135,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 314,
+		"start": 132,
+		"end": 135,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 315,
+		"start": 130,
+		"end": 134,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 315,
+		"start": 130,
+		"end": 134,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 316,
+		"start": 137,
+		"end": 136,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 316,
+		"start": 137,
+		"end": 136,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 317,
+		"start": 137,
+		"end": 135,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 317,
+		"start": 137,
+		"end": 135,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 318,
+		"start": 136,
+		"end": 134,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 318,
+		"start": 136,
+		"end": 134,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 319,
+		"start": 134,
+		"end": 137,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 319,
+		"start": 134,
+		"end": 137,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 320,
+		"start": 130,
+		"end": 136,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 320,
+		"start": 130,
+		"end": 136,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 321,
+		"start": 139,
+		"end": 138,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 321,
+		"start": 139,
+		"end": 138,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 322,
+		"start": 139,
+		"end": 137,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 322,
+		"start": 139,
+		"end": 137,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 323,
+		"start": 138,
+		"end": 136,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 323,
+		"start": 138,
+		"end": 136,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 324,
+		"start": 136,
+		"end": 139,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 324,
+		"start": 136,
+		"end": 139,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 325,
+		"start": 130,
+		"end": 138,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 325,
+		"start": 130,
+		"end": 138,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 326,
+		"start": 141,
+		"end": 140,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 326,
+		"start": 141,
+		"end": 140,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 327,
+		"start": 141,
+		"end": 131,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 327,
+		"start": 141,
+		"end": 131,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 328,
+		"start": 140,
+		"end": 130,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 328,
+		"start": 140,
+		"end": 130,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 329,
+		"start": 130,
+		"end": 141,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 329,
+		"start": 130,
+		"end": 141,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 330,
+		"start": 138,
+		"end": 140,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 330,
+		"start": 138,
+		"end": 140,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 331,
+		"start": 143,
+		"end": 142,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 331,
+		"start": 143,
+		"end": 142,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 332,
+		"start": 143,
+		"end": 139,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 332,
+		"start": 143,
+		"end": 139,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 333,
+		"start": 142,
+		"end": 138,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 333,
+		"start": 142,
+		"end": 138,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 334,
+		"start": 138,
+		"end": 143,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 334,
+		"start": 138,
+		"end": 143,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 335,
+		"start": 140,
+		"end": 142,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 335,
+		"start": 140,
+		"end": 142,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 336,
+		"start": 145,
+		"end": 144,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 336,
+		"start": 145,
+		"end": 144,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 337,
+		"start": 145,
+		"end": 143,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 337,
+		"start": 145,
+		"end": 143,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 338,
+		"start": 144,
+		"end": 142,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 338,
+		"start": 144,
+		"end": 142,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 339,
+		"start": 142,
+		"end": 145,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 339,
+		"start": 142,
+		"end": 145,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 340,
+		"start": 140,
+		"end": 144,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 340,
+		"start": 140,
+		"end": 144,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 341,
+		"start": 146,
+		"end": 142,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 341,
+		"start": 146,
+		"end": 142,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 342,
+		"start": 146,
+		"end": 145,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 342,
+		"start": 146,
+		"end": 145,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 343,
+		"start": 142,
+		"end": 144,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 343,
+		"start": 142,
+		"end": 144,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 344,
+		"start": 144,
+		"end": 146,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 344,
+		"start": 144,
+		"end": 146,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 345,
+		"start": 148,
+		"end": 147,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 345,
+		"start": 148,
+		"end": 147,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 346,
+		"start": 148,
+		"end": 141,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 346,
+		"start": 148,
+		"end": 141,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 347,
+		"start": 147,
+		"end": 140,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 347,
+		"start": 147,
+		"end": 140,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 348,
+		"start": 140,
+		"end": 148,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 348,
+		"start": 140,
+		"end": 148,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 349,
+		"start": 142,
+		"end": 147,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 349,
+		"start": 142,
+		"end": 147,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 350,
+		"start": 150,
+		"end": 149,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 350,
+		"start": 150,
+		"end": 149,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 351,
+		"start": 150,
+		"end": 148,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 351,
+		"start": 150,
+		"end": 148,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 352,
+		"start": 149,
+		"end": 147,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 352,
+		"start": 149,
+		"end": 147,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 353,
+		"start": 147,
+		"end": 150,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 353,
+		"start": 147,
+		"end": 150,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 354,
+		"start": 142,
+		"end": 149,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 354,
+		"start": 142,
+		"end": 149,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 355,
+		"start": 152,
+		"end": 151,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 355,
+		"start": 152,
+		"end": 151,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 356,
+		"start": 152,
+		"end": 146,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 356,
+		"start": 152,
+		"end": 146,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 357,
+		"start": 151,
+		"end": 142,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 357,
+		"start": 151,
+		"end": 142,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 358,
+		"start": 142,
+		"end": 152,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 358,
+		"start": 142,
+		"end": 152,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 359,
+		"start": 149,
+		"end": 151,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 359,
+		"start": 149,
+		"end": 151,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 360,
+		"start": 154,
+		"end": 153,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 360,
+		"start": 154,
+		"end": 153,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 361,
+		"start": 154,
+		"end": 150,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 361,
+		"start": 154,
+		"end": 150,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 362,
+		"start": 153,
+		"end": 149,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 362,
+		"start": 153,
+		"end": 149,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 363,
+		"start": 149,
+		"end": 154,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 363,
+		"start": 149,
+		"end": 154,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 364,
+		"start": 151,
+		"end": 153,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 364,
+		"start": 151,
+		"end": 153,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 365,
+		"start": 155,
+		"end": 90,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 365,
+		"start": 155,
+		"end": 90,
+		"type": "UPDATES_HUMAN",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 366,
+		"start": 155,
+		"end": 154,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 366,
+		"start": 155,
+		"end": 154,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 367,
+		"start": 90,
+		"end": 153,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 367,
+		"start": 90,
+		"end": 153,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 368,
+		"start": 153,
+		"end": 155,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 368,
+		"start": 153,
+		"end": 155,
+		"type": "NEW_KNOWLEDGE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 369,
+		"start": 151,
+		"end": 90,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 369,
+		"start": 151,
+		"end": 90,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 370,
+		"start": 157,
+		"end": 156,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 370,
+		"start": 157,
+		"end": 156,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 371,
+		"start": 157,
+		"end": 152,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 371,
+		"start": 157,
+		"end": 152,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 372,
+		"start": 156,
+		"end": 151,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 372,
+		"start": 156,
+		"end": 151,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 373,
+		"start": 151,
+		"end": 157,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 373,
+		"start": 151,
+		"end": 157,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 374,
+		"start": 90,
+		"end": 156,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 374,
+		"start": 90,
+		"end": 156,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 375,
+		"start": 159,
+		"end": 158,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 375,
+		"start": 159,
+		"end": 158,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 376,
+		"start": 159,
+		"end": 157,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 376,
+		"start": 159,
+		"end": 157,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 377,
+		"start": 158,
+		"end": 156,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 377,
+		"start": 158,
+		"end": 156,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 378,
+		"start": 156,
+		"end": 159,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 378,
+		"start": 156,
+		"end": 159,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 379,
+		"start": 90,
+		"end": 158,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 379,
+		"start": 90,
+		"end": 158,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 380,
+		"start": 161,
+		"end": 160,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 380,
+		"start": 161,
+		"end": 160,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 381,
+		"start": 161,
+		"end": 159,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 381,
+		"start": 161,
+		"end": 159,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 382,
+		"start": 160,
+		"end": 158,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 382,
+		"start": 160,
+		"end": 158,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 383,
+		"start": 158,
+		"end": 161,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 383,
+		"start": 158,
+		"end": 161,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 384,
+		"start": 90,
+		"end": 160,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 384,
+		"start": 90,
+		"end": 160,
+		"type": "SYNCHRONIZES_TO",
+		"properties": {}
+	},
+	{
+		"identity": 385,
+		"start": 162,
+		"end": 160,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 385,
+		"start": 162,
+		"end": 160,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 386,
+		"start": 162,
+		"end": 161,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 386,
+		"start": 162,
+		"end": 161,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "sima",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 387,
+		"start": 163,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 387,
+		"start": 163,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 388,
+		"start": 164,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 388,
+		"start": 164,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 389,
+		"start": 164,
+		"end": 163,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 389,
+		"start": 164,
+		"end": 163,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Leo"
+		}
+	},
+	{
+		"identity": 390,
+		"start": 165,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Eric"
+		}
+	},
+	{
+		"identity": 390,
+		"start": 165,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "Eric"
+		}
+	},
+	{
+		"identity": 391,
+		"start": 166,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 391,
+		"start": 166,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 392,
+		"start": 166,
+		"end": 79,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 392,
+		"start": 166,
+		"end": 79,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 393,
+		"start": 168,
+		"end": 167,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 393,
+		"start": 168,
+		"end": 167,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 394,
+		"start": 170,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 394,
+		"start": 170,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 395,
+		"start": 170,
+		"end": 168,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 395,
+		"start": 170,
+		"end": 168,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 396,
+		"start": 169,
+		"end": 167,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 396,
+		"start": 169,
+		"end": 167,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 397,
+		"start": 167,
+		"end": 170,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 397,
+		"start": 167,
+		"end": 170,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 398,
+		"start": 172,
+		"end": 171,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 398,
+		"start": 172,
+		"end": 171,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 399,
+		"start": 172,
+		"end": 170,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 399,
+		"start": 172,
+		"end": 170,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 400,
+		"start": 171,
+		"end": 169,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 400,
+		"start": 171,
+		"end": 169,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 401,
+		"start": 169,
+		"end": 172,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 401,
+		"start": 169,
+		"end": 172,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 402,
+		"start": 173,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 402,
+		"start": 173,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 403,
+		"start": 173,
+		"end": 172,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 403,
+		"start": 173,
+		"end": 172,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 404,
+		"start": 169,
+		"end": 171,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 404,
+		"start": 169,
+		"end": 171,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 405,
+		"start": 171,
+		"end": 173,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 405,
+		"start": 171,
+		"end": 173,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 406,
+		"start": 174,
+		"end": 171,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 406,
+		"start": 174,
+		"end": 171,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 407,
+		"start": 174,
+		"end": 173,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 407,
+		"start": 174,
+		"end": 173,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 408,
+		"start": 169,
+		"end": 174,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 408,
+		"start": 169,
+		"end": 174,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 409,
+		"start": 175,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 409,
+		"start": 175,
+		"end": 169,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 410,
+		"start": 175,
+		"end": 174,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 410,
+		"start": 175,
+		"end": 174,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 411,
+		"start": 171,
+		"end": 175,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 411,
+		"start": 171,
+		"end": 175,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 412,
+		"start": 176,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo2"
+		}
+	},
+	{
+		"identity": 412,
+		"start": 176,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo2"
+		}
+	},
+	{
+		"identity": 413,
+		"start": 178,
+		"end": 177,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 413,
+		"start": 178,
+		"end": 177,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 414,
+		"start": 178,
+		"end": 175,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 414,
+		"start": 178,
+		"end": 175,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 415,
+		"start": 177,
+		"end": 169,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 415,
+		"start": 177,
+		"end": 169,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 416,
+		"start": 169,
+		"end": 178,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 416,
+		"start": 169,
+		"end": 178,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 417,
+		"start": 180,
+		"end": 179,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 417,
+		"start": 180,
+		"end": 179,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 418,
+		"start": 180,
+		"end": 178,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 418,
+		"start": 180,
+		"end": 178,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 419,
+		"start": 179,
+		"end": 177,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 419,
+		"start": 179,
+		"end": 177,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 420,
+		"start": 177,
+		"end": 180,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 420,
+		"start": 177,
+		"end": 180,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 421,
+		"start": 182,
+		"end": 181,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 421,
+		"start": 182,
+		"end": 181,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 422,
+		"start": 182,
+		"end": 180,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 422,
+		"start": 182,
+		"end": 180,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 423,
+		"start": 181,
+		"end": 179,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 423,
+		"start": 181,
+		"end": 179,
+		"type": "PREV_STATE",
+		"properties": {}
+	},
+	{
+		"identity": 424,
+		"start": 179,
+		"end": 182,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 424,
+		"start": 179,
+		"end": 182,
+		"type": "NEW_BEHAVIOR",
+		"properties": {
+			"id": 0,
+			"analysis": "erik",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 425,
+		"start": 183,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 425,
+		"start": 183,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 426,
+		"start": 183,
+		"end": 166,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 426,
+		"start": 183,
+		"end": 166,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "leo"
+		}
+	},
+	{
+		"identity": 427,
+		"start": 184,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	},
+	{
+		"identity": 427,
+		"start": 184,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	},
+	{
+		"identity": 428,
+		"start": 185,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	},
+	{
+		"identity": 428,
+		"start": 185,
+		"end": 78,
+		"type": "UPDATES_MACHINE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	},
+	{
+		"identity": 429,
+		"start": 185,
+		"end": 184,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	},
+	{
+		"identity": 429,
+		"start": 185,
+		"end": 184,
+		"type": "PREV_UPDATE",
+		"properties": {
+			"id": 0,
+			"analysis": "Default",
+			"user": "cristina"
+		}
+	}
+]

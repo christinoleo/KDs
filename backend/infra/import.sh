@@ -1,0 +1,1 @@
+docker exec --interactive --tty neo4j cypher-shell -u neo4j -p infraconnexion --file /import/neo4j.cypher

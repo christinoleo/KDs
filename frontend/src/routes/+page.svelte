@@ -149,8 +149,8 @@
 			>
 			<button
 				class="tab tab-sm mx-1"
-				class:tab-active={$settings.tools.includes('modkt')}
-				on:click={() => onToolClick('modkt')}>ModKT</button
+				class:tab-active={$settings.tools.includes('modKT')}
+				on:click={() => onToolClick('modKT')}>ModKT</button
 			>
 		</div>
 		<div class="tabs tabs-boxed w-full justify-center">
